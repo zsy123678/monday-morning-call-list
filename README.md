@@ -3,6 +3,7 @@
 **Team: zhangshuyu-team** — a Streamlit dashboard for the key-account retention manager of a UK online gift wholesaler.
 
 - **Live app:** STREAMLIT_URL
+- **Repository:** https://github.com/zsy123678/monday-morning-call-list
 - **Dataset:** [Online Retail II — Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset) (real transactions, originally published by Dr Daqing Chen, London South Bank University; UCI dataset #502)
 
 ---
